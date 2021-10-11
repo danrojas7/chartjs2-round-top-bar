@@ -2,7 +2,7 @@
   "name": "chartjs2-round-top-bar",
   "version": "1.0.0",
   "description": "An npm package for top round bar for chartjs. It's tested with chart.js 2.9.4",
-  "main": "index.js",  
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/danrojas7/chartjs2-round-top-bar.git"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/danrojas7/chartjs2-round-top-bar/issues"
   },
-  "homepage": "https://github.com/danrojas7/chartjs2-round-top-bar#readme"
+  "homepage": "https://github.com/danrojas7/chartjs2-round-top-bar#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
